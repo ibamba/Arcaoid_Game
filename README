@@ -1,0 +1,35 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<PROJET n°3 CPOO5 : JEU ARCANOID >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+-----------------------------------------------------------
+Nom des binômes : <--> BAMBA Ibrahim - Groupe 1
+		  <--> ROCHA DA SILVA Matheus - Groupe 2
+-----------------------------------------------------------
+
+I) PRESENTATION DU DOSSIER
+  -------------------------
+
+Ce dossier contient 11 fichiers :
+-'README' : Le fichier que vous êtes entrain de lire, contenant des détails sur le contenu et le fonctionnement du projet
+-Les fichiers de codes sources : *.java (fichiers contenant les codes sources en java)
+				  Le fichier principal est "Vue.java"
+-Un makefile (dans le fichier "Makefile") : permettant la compilation totale de tous les fichiers .java
+-Un dossier "Niveaux" : contenant les fichiers de niveaux différents du jeu (proposé sur moodle)
+
+
+II) COMMENT COMPILER ET TESTER LE PROGRAMME ?
+   -------------------------------------------
+
+1- Pour compiler : > make
+		   Cette commande compilera tous les fichiers .java et permettra l'exécution du programme
+2- Pour exécuter : > java Vue
+		   Cela lancera le jeu. Et vous pourrez désormais le tester.
+
+
+III) COMMENT UTILISER L'APPLICATION ?
+     ---------------------------------
+
+Après le lancement de l'exécution, l'application est lancée. Au debut, vous êtes au niveau 1. Mais vous pouvez changer de niveau à tout moment en cliquant sur le boutton correspondant mais aussi redémarrer un niveau. Au lancement, le jeu est sur pause. Vous devez appuyer sur la touche S du clavier pour le demarrer. Le fonctionnement du jeu respecte à la lettre les instructions laissées dans le sujet : bouttons et touches pause, play, demarrer, quitter... Instructions laissés à l'utilisateur dans le bas de la fenêtre, direction de la balle par la raquette...
+Aussi, dans ce projet, nous avons utilisé l'architecture MVC.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< FIN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
